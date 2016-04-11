@@ -1,0 +1,18 @@
+{
+  "name": "damson-core",
+  "description": "Damson core",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/damsonjs/damson-core.git"
+  },
+  "scripts": {
+    "test": "jshint *.js"
+  },
+  "author": "Andrey Zhylin <andrey.zhylin@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "damson-util": "0.0.2"
+  }
+}
